@@ -1,0 +1,10 @@
+Python Basics -- Class  9/10
+
+Level: Beginner (Full Basic)
+
+Classes
+    - Definition
+    - Properties
+    - Methods
+    - Self Keyword
+    - Inclusion/Usage

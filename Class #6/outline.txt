@@ -1,0 +1,11 @@
+Python Basics -- Class  7/10
+
+Level: Beginner (Full Basic)
+
+Dictionaries
+    - Initialize
+    - Add Item
+    - Access Item
+    - Change Item
+    - Remove Item
+    - Iterate

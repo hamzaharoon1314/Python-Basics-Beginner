@@ -1,0 +1,11 @@
+Python Basics -- Class  3/10
+
+Level: Beginner (Full Basic)
+
+Basic Syntax
+    - Indentation
+    - Commenting
+    - Variables
+    - Multi-line Statements
+    - Continuance
+    - Printing

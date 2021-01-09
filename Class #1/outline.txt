@@ -1,0 +1,16 @@
+Python Basics -- Class  2/10
+
+Level: Beginner (Full Basic)
+
+Running Programs
+    - Installation
+        * Might already be installed
+        * Ubuntu: apt
+        * RHEL: yum
+        * macOS: brew or use python site
+        * Windows: use python site
+        * Site: python.org/downloads
+    - Hello World
+    - Normal
+    - Hashbang (*nix)
+    - Interpreter

@@ -1,0 +1,10 @@
+Python Basics -- Class  5/10
+
+Level: Beginner (Full Basic)
+
+Control Structures
+    - If
+    - Else
+    - Else If
+    - While
+    - Ternary

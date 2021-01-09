@@ -1,0 +1,10 @@
+Python Basics -- Class  8/10
+
+Level: Beginner (Full Basic)
+
+Functions
+    - Definition
+    - Calling
+    - Arguments
+    - Return
+    - Multiple Return

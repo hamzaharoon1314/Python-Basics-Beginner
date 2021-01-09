@@ -1,0 +1,12 @@
+Python Basics -- Class  4/10
+
+Level: Beginner (Full Basic)
+
+Strings/Numbers
+    - Single Line
+    - Multi Line
+    - Substrings
+    - Integer
+    - Float
+    - Conversion to String
+    - Conversion to Integer/Float
